@@ -26,7 +26,7 @@ module.exports = {
   botInvite: "",
   supportServer: "",
   mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
-  status: 'GlaceYT',
+  status: 'bush1uk',
   commandsDir: './commands',
   language: "en",
   embedColor: "00fbff",
@@ -35,7 +35,7 @@ module.exports = {
 
   sponsor: {
     status: true,
-    url: "https://www.youtube.com/@GlaceYT",
+    url: "https://discord.gg/ZguJjVkJbW",
   },
 
   voteManager: {

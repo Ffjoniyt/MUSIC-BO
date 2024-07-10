@@ -45,8 +45,8 @@ module.exports = {
         .setColor('#3498db')
         .setAuthor({
           name: 'Cleared List',
-          iconURL: 'https://cdn.discordapp.com/attachments/1156866389819281418/1157314241393598585/4618-no-slides.png?ex=65182861&is=6516d6e1&hm=dac8fed5a18e1574485e833d4c017591c50f59d161e1bde7fed5f6a92543f951&',
-          url: 'https://discord.gg/FUEHs7RCqz'
+          iconURL: 'https://cdn.discordapp.com/attachments/1027672923294679180/1260447602584064091/fd41f91f5edd2d595ae4431af1e4ebbf.jpg?ex=668f5ace&is=668e094e&hm=7fed5a90dfff40cafcd24cbc84e68c7bd7c03a673d03c16e9b06f82e8bb8b4e1&',
+          url: 'https://discord.gg/ZguJjVkJbW'
         })
         .setDescription('**Queue cleared! Be Ready for a new musical journey.**')
        

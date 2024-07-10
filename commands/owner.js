@@ -29,17 +29,17 @@ module.exports = {
 
   run: async (client, interaction) => {
     try {
-      const youtubeLink = 'https://discord.gg/xQF9f9yUEM';
-      const InstagramLink = 'https://www.instagram.com/rtxxgg/';
+      const youtubeLink = 'https://www.youtube.com/channel/UCzBnkB590uYsVHXafaeyPbg';
+      const InstagramLink = 'https://www.instagram.com/only_bushi_uk?igsh=Y3BmNTZkanpxcWxl';
       const { EmbedBuilder } = require('discord.js')
         const embed = new EmbedBuilder()
             .setColor('#da2a41')
             .setAuthor({
           name: 'Owner',
-          iconURL: 'https://cdn.discordapp.com/attachments/1156866389819281418/1157310253520662638/2443-iconperson.png?ex=651824aa&is=6516d32a&hm=0becc4a0fda01e5a02a63cf098db30c287e60a474f8d2da4ddeae7f47d98a5a3&',
-          url: 'https://discord.gg/FUEHs7RCqz'
+          iconURL: 'https://cdn.discordapp.com/attachments/1027672923294679180/1260447602584064091/fd41f91f5edd2d595ae4431af1e4ebbf.jpg?ex=668f5ace&is=668e094e&hm=7fed5a90dfff40cafcd24cbc84e68c7bd7c03a673d03c16e9b06f82e8bb8b4e1&',
+          url: 'https://discord.gg/ZguJjVkJbW'
         })
-            .setDescription(`__**About me**__:\n\n ▶️ Myself Shiva aka GlaceYT. I am a discord bot developer and web developer. I love playing games, watching anime and building different webserver applications. You will get faster replies on instagram than other social media. Feel free to contact me!\n YouTube : ❤️ [RTX GAMING](${youtubeLink})\n Instagram : 💙 [rtxxgg](${InstagramLink})`)
+            .setDescription(`__**About me**__:\n\n ▶️ bush1uk. I am a discord bot developer and web developer.My social account!\n YouTube : ❤️ [YOUTUBE](${youtubeLink})\n Instagram : 💙 [INSTAGRAM](${InstagramLink})`)
             .setTimestamp();
       interaction.reply({ embeds: [embed] }).catch(e => {});
 
